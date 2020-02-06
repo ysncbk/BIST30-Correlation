@@ -4,6 +4,9 @@ Created on Thu Jan 30 07:36:32 2020
 
 @author: yasin
 """
+#I created this content based on https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ Python Programming for Finance
+#These tutorials in this channel gave me an intuition. This code is not optimized.
+# import libraries
 
 # import libraries
 import urllib.request
